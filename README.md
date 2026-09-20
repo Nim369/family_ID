@@ -3,6 +3,8 @@
 
 Official Hackathon Submission for the **Gujarat Kutumb Portal & Administration Center** — an integrated digital governance system featuring dual authenticated portals for Citizens and Taluka Revenue Officers (Mamlatdar / TDO) with real-time cross-origin synchronization, proactive scheme matching, life-cycle event orchestration, and cross-household fraud prevention.
 
+
+
 ---
 
 ## 🏛️ System Architecture Diagram
@@ -135,16 +137,29 @@ The production bundle will be generated in `dist/` with both `dist/index.html` (
 
 ---
 
-## 👥 Demo Profiles for Evaluators
+## 🌐 Live Deployment Links
+
+| Portal | Live URL | Target Audience |
+| :--- | :--- | :--- |
+| **Citizen Portal** | [https://nim369.github.io/family_ID/](https://nim369.github.io/family_ID/) | Citizens, Heads of Family, Beneficiaries |
+| **Taluka Officer Portal** | [https://nim369.github.io/family_ID/officer.html](https://nim369.github.io/family_ID/officer.html) | TDO, Mamlatdars, Verification Officers |
+| **Architecture Diagram (JPG)** | [architecture_diagram.jpg](architecture_diagram.jpg) | Evaluators & System Architects |
+
+---
+
+## 👥 Demo Login Credentials for Evaluators
 
 ### 1. Citizen Portal
 - **Head of Household:** Rameshbhai Kanubhai Patel
 - **Family ID:** `GJ-AMD-2026-10492`
 - **Mobile Number:** `9825143210`
 - **Aadhaar Number:** `7821-3456-9012`
+- **OTP Verification:** `925578` (or click *Quick Demo Profile*)
 
-### 2. Taluka Officer Administration
+### 2. Taluka Officer Administration Portal
+- **Portal URL:** [https://nim369.github.io/family_ID/officer.html](https://nim369.github.io/family_ID/officer.html)
 - **Officer Name:** K. R. Vaghela
-- **Designation:** Taluka Development Officer (TDO)
-- **Jurisdiction:** Daskroi Taluka, Ahmedabad District
-- **Default Credentials:** `tdo.daskroi@gujarat.gov.in` / `Gujarat@2026`
+- **Designation:** Taluka Development Officer (TDO Class-1)
+- **Taluka & District:** Daskroi, Ahmedabad
+- **Email:** `tdo.daskroi@gujarat.gov.in`
+- **Password:** `GujaratGov@2026`
