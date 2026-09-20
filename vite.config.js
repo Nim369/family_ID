@@ -187,6 +187,7 @@ function sharedBackendApiPlugin() {
 }
 
 export default defineConfig({
+  base: './',
   plugins: [react(), sharedBackendApiPlugin()],
   server: {
     port: 3000,
