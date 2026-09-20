@@ -1,0 +1,20 @@
+[
+  {
+    "id": "SMS_1789906353807_MEMBER_ENROLLED",
+    "familyId": "FAM_GJ_001",
+    "familyIdNumber": "GJ-AMD-2026-10492",
+    "mobileNumber": "9825143210",
+    "type": "APPROVAL",
+    "message": "GJ-GOVT ALERT: Aarav Rameshbhai Patel (Aadhaar ending ...6712) successfully enrolled into Family ID #GJ-AMD-2026-10492 as SON. PDS food grain quota and scheme entitlements updated.",
+    "timestamp": "2026-09-20T12:12:33.807Z"
+  },
+  {
+    "id": "SMS_INIT_01",
+    "familyId": "FAM_GJ_001",
+    "familyIdNumber": "GJ-AMD-2026-10492",
+    "mobileNumber": "9825143210",
+    "type": "APPROVAL",
+    "message": "Welcome to Gujarat Kutumb Portal! Family ID #GJ-AMD-2026-10492 income certificate verified & stamped by TDO Daskroi. Scheme benefits active.",
+    "timestamp": "2026-09-15T10:30:00Z"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "id": "FAM_GJ_001",
+    "familyIdNumber": "GJ-AMD-2026-10492",
+    "district": "Ahmedabad",
+    "taluka": "Daskroi",
+    "villageCity": "Bhadaj",
+    "address": "Plot 42, Gayatri Society, Near Canal Road",
+    "pincode": "380060",
+    "headMobile": "9825143210",
+    "casteCategory": "SEBC",
+    "rationCardType": "BPL",
+    "declaredAnnualIncome": 110000,
+    "incomeCertPdfUrl": "/documents/sample_income_cert_10492.pdf",
+    "incomeCertFileName": "Mamlatdar_Income_Certificate_2026_10492.pdf",
+    "incomeVerificationStatus": "VERIFIED",
+    "verifiedByAdmin": "K. R. Vaghela (TDO Daskroi)",
+    "verifiedAt": "2026-09-15T10:30:00Z",
+    "hasAgriLand": true,
+    "landSizeAcres": 1.8,
+    "createdAt": "2026-09-12T09:15:00Z",
+    "members": [
+      {
+        "id": "MEM_001_1",
+        "aadhaarNumber": "782134569012",
+        "fullName": "Rameshbhai Kanubhai Patel",
+        "relationToHead": "HEAD",
+        "gender": "MALE",
+        "dob": "1979-06-14",
+        "mobileNumber": "9825143210",
+        "maritalStatus": "Married",
+        "educationLevel": "10th Class",
+        "occupation": "Farmer",
+        "isActive": true
+      },
+      {
+        "id": "MEM_001_2",
+        "aadhaarNumber": "914567230189",
+        "fullName": "Gitaben Rameshbhai Patel",
+        "relationToHead": "SPOUSE",
+        "gender": "FEMALE",
+        "dob": "1983-09-22",
+        "maritalStatus": "Married",
+        "educationLevel": "8th Class",
+        "occupation": "Homemaker",
+        "isActive": true
+      },
+      {
+        "id": "MEM_001_3",
+        "aadhaarNumber": "623489104578",
+        "fullName": "Priyaben Rameshbhai Patel",
+        "relationToHead": "DAUGHTER",
+        "gender": "FEMALE",
+        "dob": "2008-11-04",
+        "maritalStatus": "Unmarried",
+        "educationLevel": "11th Science",
+        "occupation": "Student",
+        "isActive": true
+      },
+      {
+        "id": "MEM_001_4",
+        "aadhaarNumber": "451290783456",
+        "fullName": "Maniba Kanubhai Patel",
+        "relationToHead": "MOTHER",
+        "gender": "FEMALE",
+        "dob": "1954-03-10",
+        "maritalStatus": "Widowed",
+        "educationLevel": "Illiterate",
+        "occupation": "Senior Citizen",
+        "isActive": true
+      },
+      {
+        "id": "MEM_001_5",
+        "aadhaarNumber": "881234907612",
+        "fullName": "Diyaben Rameshbhai Patel",
+        "relationToHead": "DAUGHTER",
+        "gender": "FEMALE",
+        "dob": "2007-04-12",
+        "maritalStatus": "Unmarried",
+        "educationLevel": "12th Science",
+        "occupation": "Student",
+        "isActive": true
+      },
+      {
+        "id": "MEM_1789906353798_2447",
+        "fullName": "Aarav Rameshbhai Patel",
+        "relationToHead": "SON",
+        "gender": "MALE",
+        "dob": "2012-08-20",
+        "aadhaarNumber": "419823456712",
+        "mobileNumber": "9825143210",
+        "educationLevel": "Primary (1-8)",
+        "occupation": "Student",
+        "maritalStatus": "Unmarried",
+        "idProofFileName": "Aadhaar_Enrollment_Proof.pdf",
+        "enrollmentDate": "2026-09-20T12:12:33.798Z",
+        "isActive": true
+      }
+    ],
+    "appliedSchemes": [
+      "SCH_MAA_AMRUTAM",
+      "SCH_KISAN_SAHAY"
+    ]
+  },
+  {
+    "id": "FAM_GJ_002",
+    "familyIdNumber": "GJ-SRT-2026-88219",
+    "district": "Surat",
+    "taluka": "Choryasi",
+    "villageCity": "Bhestan",
+    "address": "Room 14, Shramik Colony, Near Railway Line",
+    "pincode": "395023",
+    "headMobile": "9978123456",
+    "casteCategory": "SC",
+    "rationCardType": "AAY",
+    "declaredAnnualIncome": 75000,
+    "incomeCertPdfUrl": "/documents/sample_income_cert_88219.pdf",
+    "incomeCertFileName": "Talati_Income_Proof_Surat_88219.pdf",
+    "incomeVerificationStatus": "PENDING",
+    "verifiedByAdmin": null,
+    "verifiedAt": null,
+    "hasAgriLand": false,
+    "landSizeAcres": 0,
+    "createdAt": "2026-09-19T14:40:00Z",
+    "members": [
+      {
+        "id": "MEM_002_1",
+        "aadhaarNumber": "558912347601",
+        "fullName": "Devrajbhai Mohanbhai Solanki",
+        "relationToHead": "HEAD",
+        "gender": "MALE",
+        "dob": "1988-02-18",
+        "mobileNumber": "9978123456",
+        "maritalStatus": "Married",
+        "educationLevel": "5th Class",
+        "occupation": "Daily Wage Laborer",
+        "isActive": true
+      },
+      {
+        "id": "MEM_002_2",
+        "aadhaarNumber": "334589012378",
+        "fullName": "Kavitaben Devrajbhai Solanki",
+        "relationToHead": "SPOUSE",
+        "gender": "FEMALE",
+        "dob": "1991-07-29",
+        "maritalStatus": "Married",
+        "educationLevel": "7th Class",
+        "occupation": "Construction Worker",
+        "isActive": true
+      },
+      {
+        "id": "MEM_002_3",
+        "aadhaarNumber": "220198456734",
+        "fullName": "Anjali Devrajbhai Solanki",
+        "relationToHead": "DAUGHTER",
+        "gender": "FEMALE",
+        "dob": "2010-04-15",
+        "maritalStatus": "Unmarried",
+        "educationLevel": "9th Class",
+        "occupation": "Student",
+        "isActive": true
+      }
+    ],
+    "appliedSchemes": [
+      "SCH_SHRAMIK_ANNAPURNA"
+    ]
+  },
+  {
+    "id": "FAM_GJ_003",
+    "familyIdNumber": "GJ-MEH-2026-30194",
+    "district": "Mehsana",
+    "taluka": "Kadi",
+    "villageCity": "Nandasan",
+    "address": "House 88, Vankar Vas, Village Center",
+    "pincode": "382705",
+    "headMobile": "9712345678",
+    "casteCategory": "SC",
+    "rationCardType": "BPL",
+    "declaredAnnualIncome": 95000,
+    "incomeCertPdfUrl": "/documents/sample_income_cert_30194.pdf",
+    "incomeCertFileName": "Mamlatdar_Kadi_Cert_30194.pdf",
+    "incomeVerificationStatus": "VERIFIED",
+    "verifiedByAdmin": "P. B. Joshi (Mamlatdar Kadi)",
+    "verifiedAt": "2026-09-17T11:00:00Z",
+    "hasAgriLand": false,
+    "landSizeAcres": 0,
+    "createdAt": "2026-09-16T11:20:00Z",
+    "members": [
+      {
+        "id": "MEM_003_1",
+        "aadhaarNumber": "889012345671",
+        "fullName": "Sarojben Jayantibhai Vankar",
+        "relationToHead": "HEAD",
+        "gender": "FEMALE",
+        "dob": "1972-12-05",
+        "mobileNumber": "9712345678",
+        "maritalStatus": "Widowed",
+        "educationLevel": "Primary",
+        "occupation": "Tailor",
+        "isActive": true
+      },
+      {
+        "id": "MEM_003_2",
+        "aadhaarNumber": "667890123452",
+        "fullName": "Bhavik Jayantibhai Vankar",
+        "relationToHead": "SON",
+        "gender": "MALE",
+        "dob": "2002-05-18",
+        "maritalStatus": "Unmarried",
+        "educationLevel": "Graduate",
+        "occupation": "Private Service",
+        "isActive": true
+      }
+    ],
+    "appliedSchemes": [
+      "SCH_VIDHVA_SAHAY"
+    ]
+  }
+]
